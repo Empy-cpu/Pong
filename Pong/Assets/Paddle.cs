@@ -9,7 +9,7 @@ public class Paddle : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        speed = 4.0f;
+        speed = 6.0f;
         Range = 4.0f;
     }
 
